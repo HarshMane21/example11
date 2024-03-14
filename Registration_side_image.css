@@ -1,0 +1,74 @@
+.img_sec {
+    object-fit: cover;
+    width: 100%;
+    height: 100vh;
+}
+
+.sign_up {
+    padding: 40px 16px;
+}
+
+.sign_sec {
+    margin-bottom: 30px;
+
+}
+
+.sign_sec h3 {
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.button_sec {
+    color: #ff00ff;
+}
+
+.input {
+    border-top-style: none;
+    border-left: none;
+    border-right: none;
+}
+
+.input_sec {
+    border: none !important;
+    border-bottom: 1px solid black !important;
+    border-radius: 0px !important;
+    font-size: 20px !important;
+
+
+}
+
+.input_par_sec {
+    margin-bottom: 20px;
+}
+
+.main_sec {
+    font-size: 20px !important;
+    font-weight: 500;
+}
+.checkmark{
+font-weight: 500;
+}
+.sign_up_sec {
+    background-color: #ff00ff !important;
+    font-size: 18px !important;
+    font-weight: 600;
+    width: 210px !important;
+    color: white !important;
+    border-radius: 30px !important;
+
+
+
+}
+
+.input_button_sec {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.sign_in_button {
+    font-size: 18px !important;
+    font-weight: 600;
+    ;
+}
